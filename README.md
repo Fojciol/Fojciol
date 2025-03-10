@@ -12,9 +12,9 @@
 
 <!-- BREVE DESCRIPCION -->
 
-- 🌱 I am currently working on **Yumestream**
+- 🌱 I am currently working on **Nekostream**
 
-- 🏙 Creator of the [Yumestream](yumestream.pl) [soon]
+- 🏙 Creator of the [Nekostream](nekostream.pl) [soon]
 
 - 📫 How to reach me **kacperfojcik03@gmail.com**
 
